@@ -1,6 +1,11 @@
+
 ![Display Picture](/images/display.png)
 
-# 52Weeks-Project-Ideas
+# 52weeks Project Ideas
+
+A small project every week for 52 weeks.
+
+## Project Ideas
 
 ## Week 1
 - Keylogger in any desired language
@@ -19,3 +24,5 @@
 
 ## Week 6
 - Python: Create a Twitter Bot in Python Using Tweepy
+
+
