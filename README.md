@@ -1,4 +1,4 @@
-![Project Picture](https://github.com/CrazyChickenDev/52weeks-project-ideas/images/52weeks project.png)
+![Display Picture](/images/display.png)
 
 # 52Weeks-Project-Ideas
 
