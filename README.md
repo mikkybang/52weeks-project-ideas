@@ -1,1 +1,3 @@
-# 52weeks-project-ideas
+# 52Weeks-Project-Ideas
+
+## Week 1
