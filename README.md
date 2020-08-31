@@ -25,4 +25,7 @@ A small project every week for 52 weeks.
 ## Week 6
 - Python: Create a Twitter Bot in Python Using Tweepy
 
+## Week 7
+- Python: Face Recognition using OpenCV python.
+
 
