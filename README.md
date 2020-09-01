@@ -28,4 +28,11 @@ A small project every week for 52 weeks.
 ## Week 7
 - Python: Face Recognition using OpenCV python.
 
+## Week 8
+- Go: Build Your Own Container Using Less than 100 Lines of Go
 
+## Week 9
+- Python: Build a Reddit Bot
+
+## Week 10
+- JavaScript: A cryptocurrency implementation in less than 1500 lines of code
