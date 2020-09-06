@@ -1,6 +1,6 @@
 ![Display Picture](/images/display.png)
 
-# 52weeks Project Ideas
+# 52WEEKS PROJECT IDEAS
 
 A small project every week for 52 weeks.
 
