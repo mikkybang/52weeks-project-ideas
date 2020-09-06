@@ -8,15 +8,15 @@ A small project every week for 52 weeks.
 
 ## Week 1
 
-- Keylogger in any desired language
+- Keylogger
 
 ## Week 2
 
-- Python: How To Create a Telegram Bot Using Python
+- Create a Telegram Bot Using Python
 
 ## Week 3
 
-- Mp3 Player in a desired language
+- Mp3 Player
 
 ## Week 4
 
@@ -28,7 +28,7 @@ A small project every week for 52 weeks.
 
 ## Week 6
 
-- Python: Create a Twitter Bot in Python Using Tweepy
+- Create a Twitter Bot in Python Using Tweepy
 
 ## Week 7
 
@@ -36,12 +36,12 @@ A small project every week for 52 weeks.
 
 ## Week 8
 
-- Go: Build Your Own Container Using Less than 100 Lines of Go
+- Build Your Own Container Using Go
 
 ## Week 9
 
-- Python: Build a Reddit Bot
+- Build a Reddit Bot
 
 ## Week 10
 
-- JavaScript: A cryptocurrency implementation in less than 1500 lines of code
+- A cryptocurrency implementation in less than 1500 lines of code
